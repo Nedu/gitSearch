@@ -7,10 +7,10 @@ export const COLORS = {
 
 
 const theme = createMuiTheme({
-  palette: {
-    primary: { },
-    secondary: { },
-  },
+    // palette: {
+    //     primary: { },
+    //     secondary: { },
+    // },
 });
 
 export default theme;
